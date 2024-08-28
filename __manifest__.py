@@ -10,8 +10,8 @@
         - Auto-generated unique patient references
         - User-friendly interface for healthcare professionals
     """,
-    'author': 'Your Company',
-    'website': 'https://www.yourcompany.com',
+    'author': 'Varadharajan',
+    'website': 'https://wwww.hospital-odoo.com',
     'depends': ['base'],
     'data': [
         'security/ir.model.access.csv',
